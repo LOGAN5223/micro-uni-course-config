@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:h2:tcp://localhost:9092/mem:educationdb
+    url: jdbc:h2:tcp://localhost:9098/mem:educationdb
     username: root
     password: rootroot
     driver-class-name: org.h2.Driver
